@@ -18,7 +18,7 @@ import ca.ubc.ece.cpen221.mp3.operator.UnaryOperator;
 /**
  * Calculator - a JPanel containing a GUI for a calculator.
  * 
- * Note: YOU SHOULD NOT NEED TO MODIFY THIS CLASS.
+ * Note: YOU SHOULD NOT NEED TO MODIFY THIS CLASS OTHER THAN TO PROVIDE A CONSTRUCTOR.
  *
  */
 public class Calculator extends JPanel {
